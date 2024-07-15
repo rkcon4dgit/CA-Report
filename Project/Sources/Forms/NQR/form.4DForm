@@ -759,7 +759,7 @@
 	},
 	"geometryStamp": 43,
 	"editor": {
-		"activeView": "Toolbar",
+		"activeView": "Options",
 		"defaultView": "Toolbar",
 		"views": {
 			"Toolbar": {},
@@ -791,7 +791,6 @@
 				]
 			},
 			"Options": {
-				"visible": false,
 				"objects": [
 					"tool.options"
 				]
@@ -809,18 +808,17 @@
 				]
 			},
 			"Tools": {
-				"visible": false,
 				"objects": [
 					"tool.mask.grey",
 					"tool.mask.button"
 				]
 			},
 			"Area": {
-				"visible": false,
 				"objects": [
 					"myQR"
 				]
 			}
 		}
-	}
+	},
+	"shared": false
 }

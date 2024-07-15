@@ -619,8 +619,8 @@
 					"type": "input",
 					"top": 369,
 					"left": 366,
-					"width": 234,
-					"height": 250,
+					"width": 236,
+					"height": 129,
 					"dataSource": "[Clients:1]Picture:12",
 					"textAlign": "left",
 					"fill": "#FFFFFF",
@@ -826,7 +826,7 @@
 		"version": "1",
 		"kind": "form"
 	},
-	"geometryStamp": 14,
+	"geometryStamp": 15,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
